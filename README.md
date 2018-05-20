@@ -42,12 +42,15 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 
 
 # More information 
-NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
-\
-Scripts - Project_Workshop.tar.gz 
+
+Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
 \
 Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
-
+\
+NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
+\
+Scripts in general- https://github.com/NCGAS/de-novo-transcriptome-assembly-pipeline
+\
 # Contact
 
 Email us at help@ncgas.org 
