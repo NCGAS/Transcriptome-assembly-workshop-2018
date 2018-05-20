@@ -12,9 +12,10 @@ While material will make heavy use of XSEDE and IU machines, the material is tra
 
 More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly-of-transcriptomes-using-hpc-resources-workshop.php
 
-# Schedule\ 
+# Schedule 
 
-**Day 1			  Activity							                                      Lead**\
+**Day 1			  Activity							                                      Lead**
+\
 8:30 am		  Registration							                                  All\
 9:00am		  Introduction to NCGAS and staff			                        Tom\
 9:30am		  Introduction to Clusters and Other Resources		            Sheri\
@@ -27,7 +28,8 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 3:45pm		  Introduction to Assembly and Pipeline			                  Sheri\
 5:00pm		  Publicly Available Resources					                      All\
 
-**Day 2			  Activity							                                      Lead**\        
+**Day 2			  Activity							                                      Lead**
+\
 9:00am		  Using Galaxy							                                  Carrie\
 10:00 am		Hands on Pipeline Use					                              All\
 11:15 am		BREAK\	
@@ -39,5 +41,5 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 4:45 pm 		Downstream Analyses Discussion				                      Sheri\
 
 # More information 
-NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php \
-***Slides and Presentations *** - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah \
+NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php\
+**Slides and Presentations ** - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah\
