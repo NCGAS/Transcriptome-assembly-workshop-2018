@@ -2,7 +2,7 @@
 National Center for Genome Analysis Support (NCGAS) SPRING WORKSHOP 2018 Schedule\
 April 30th -May 1st, 2018 \
 Bloomington, IN 
-\
+
 # Description 
 The workshop includes discussions, lectures, and hands-on tutorials to cover topics important to getting started constructing and analyzing transcriptomes—without the use of a genome. Material will cover both the availability and use of high performance computing (HPC) resources, alongside the task of assembling a new transcriptome, in order to provide a more comprehensive preparation for this and future bioinformatic tasks.
 
@@ -28,7 +28,7 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 |3:45pm		      |Introduction to Assembly and Pipeline			                |Sheri |
 |5:00pm		      |Publicly Available Resources					                      |All   |
 |               |                                                           |      |
-|**Day 2**		  |**Activity					**		                                  |**Lead**|
+|**Day 2**		  |**Activity**		                                            |**Lead**|
 |               |                                                           |      |
 |9:00am		      |Using Galaxy							                                  |Carrie|
 |10:00 am		    |Hands on Pipeline Use					                            |All   |
