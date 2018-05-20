@@ -28,7 +28,7 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 |3:45pm		      |Introduction to Assembly and Pipeline			                |Sheri |
 |5:00pm		      |Publicly Available Resources					                      |All   |
 |               |                                                           |      |
-|**Day 2			  |Activity							                                      |Lead**|
+|**Day 2**		  |**Activity					**		                                  |**Lead**|
 |               |                                                           |      |
 |9:00am		      |Using Galaxy							                                  |Carrie|
 |10:00 am		    |Hands on Pipeline Use					                            |All   |
