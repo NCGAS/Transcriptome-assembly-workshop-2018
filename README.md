@@ -14,7 +14,7 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 
 # Schedule 
 
-|**Day 1			  |Activity							                                      |Lead**|
+|**Day 1**			 |**Activity**							                                |**Lead**|
 |---------------|:----------------------------------------------------------|-----:|
 |8:30 am		    |Registration							                                  |All   |
 |9:00am		      |Introduction to NCGAS and staff			                      |Tom   | 
@@ -45,8 +45,12 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
 Scripts - Project_Workshop.tar.gz 
+\
 Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
 
-# Contact 
+# Contact
+
 Email us at help@ncgas.org 
+\
 Website ncgas.org 
+\
