@@ -1,0 +1,33 @@
+#load modules
+module load R
+module load bioconductor
+module load trinityrnaseq/2.6.6
+module load kallisto
+
+#make an index with kallisto
+kallisto index -i combined_kal_index combined.okay.fa 
+
+#quantify transcripts
+kallisto quant -i combined_kal_index -o Sample2_control ../../input_files/Sample2Cont_1.fq ../../input_files/Sample2Cont_2.fq 
+kallisto quant -i combined_kal_index -o Sample14_control ../../input_files/Sample14Cont_1.fq ../../input_files/Sample14Cont_2.fq 
+kallisto quant -i combined_kal_index -o Sample5_treat ../../input_files/Sample5Treat_1.fq ../../input_files/Sample5Treat_2.fq 
+kallisto quant -i combined_kal_index -o Sample12_treat ../../input_files/Sample12Treat_1.fq ../../input_files/Sample12Treat_2.fq 
+
+#make a table
+cp ../../adjust_matrix.sh .
+./adjust_matrix.sh
+
+#annotate your samples
+nano samples_described 
+
+#run DE
+/N/soft/rhel7/trinityrnaseq/2.6.6/Analysis/DifferentialExpression/run_DE_analysis.pl --matrix matrix --method edgeR --samples_file samples described 
+
+#run DE analyses
+cd edgeR.41342.dir/
+
+/N/soft/rhel7/trinityrnaseq/2.4.0/Analysis/DifferentialExpression/analyze_diff_expr.pl --matrix ../matrix -P 5e-1 -C 2 --sample ../samples_described
+
+#pop onto globus and pull
+cp *.pdf /N/dc2/scratch/USERNAME
+globus!
