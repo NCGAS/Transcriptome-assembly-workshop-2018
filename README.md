@@ -29,7 +29,7 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 |5:00pm		      |Publicly Available Resources					                      |All   |
 |               |                                                           |      |
 |**Day 2			  |Activity							                                      |Lead**|
-|---------------|:----------------------------------------------------------|-----:|
+|               |                                                           |      |
 |9:00am		      |Using Galaxy							                                  |Carrie|
 |10:00 am		    |Hands on Pipeline Use					                            |All   |
 |11:15 am		    |BREAK                                                      |      |
@@ -44,4 +44,4 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 # More information 
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
-**Slides and Presentations ** - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
+Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
