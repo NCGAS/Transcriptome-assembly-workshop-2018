@@ -44,4 +44,9 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 # More information 
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
+Scripts - Project_Workshop.tar.gz 
 Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
+
+# Contact 
+Email us at help@ncgas.org 
+Website ncgas.org 
