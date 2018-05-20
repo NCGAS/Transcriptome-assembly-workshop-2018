@@ -19,12 +19,16 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 8:30 am		  Registration							                                  All\
 9:00am		  Introduction to NCGAS and staff			                        Tom\
 9:30am		  Introduction to Clusters and Other Resources		            Sheri\
-11:00 am		BREAK \				
+11:00 am		BREAK 
+\
 11:15 am		Optimizing Jobs						                                  Carrie\
-12:15 pm		Data Center Tour \						
-1:00pm		  Lunch \		
+12:15 pm		Data Center Tour
+\
+1:00pm		  Lunch
+\
 2:00pm		  Data Management and Movement				                        Bhavya\
-3:30pm		  BREAK \
+3:30pm		  BREAK
+\
 3:45pm		  Introduction to Assembly and Pipeline			                  Sheri\
 5:00pm		  Publicly Available Resources					                      All\
 
@@ -32,11 +36,14 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 \
 9:00am		  Using Galaxy							                                  Carrie\
 10:00 am		Hands on Pipeline Use					                              All\
-11:15 am		BREAK \	
+11:15 am		BREAK
+\
 11:30 am		Getting Help in HPC						                              Sheri/All\
-12:30 pm		Lunch \		
+12:30 pm		Lunch
+\
 1:30 pm		  Hands on Pipeline Use Cont’d				                        Sheri/All\
-3:00 pm		  BREAK \
+3:00 pm		  BREAK 
+\
 3:15 pm		  DE Analysis 							                                  Sheri\
 4:45 pm 		Downstream Analyses Discussion				                      Sheri\
 
