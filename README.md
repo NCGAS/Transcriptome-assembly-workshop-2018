@@ -50,7 +50,8 @@ Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
 Scripts in general (SLURM/PBS scripts)- https://github.com/NCGAS/de-novo-transcriptome-assembly-pipeline
-\
+
+
 # Contact
 
 Email us at help@ncgas.org 
