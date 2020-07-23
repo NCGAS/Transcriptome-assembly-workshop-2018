@@ -45,9 +45,9 @@ More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly
 
 Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
 \
-Slides and Presentations - https://iu.box.com/s/3n8fuge8kc92i1snl60jordegk32mrah
+Slides and Presentations - https://drive.google.com/drive/folders/114OjpbYMPPh0VCfQVwRTJknbmh0l8OPm?usp=sharing
 \
-NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
+NCGAS webpage - https://ncgas.org/training/transcriptome-pipeline-documentation.html
 \
 Scripts in general (SLURM/PBS scripts)- https://github.com/NCGAS/de-novo-transcriptome-assembly-pipeline
 
